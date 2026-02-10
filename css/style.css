@@ -22,6 +22,22 @@ VERSION:	Versoin Number
   font-style: normal;
   font-display: swap;
 }
+
+/* Hide Blog Breadcrumb */
+.blog-breadcrumb,
+.page-breadcrumb,
+.breadcrumb {
+    display: none !important;
+}
+
+/* Hide Blog Subtitle / Intro text */
+.blog-intro,
+.blog-description,
+.blog-subtitle,
+.page-description {
+    display: none !important;
+}
+
 body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
