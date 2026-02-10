@@ -120,12 +120,8 @@ h6, .h6 {
   color: #fff;
   border: 0;
 }
-.btn-primary:active {
-  background: #ff6f00 !important;
-}
-.btn-primary:hover {
-  background: #ff8c33;
-}
+
+
 
 .btn-outline-light {
   background: transparent;
